@@ -14,10 +14,10 @@ and it's clear that it's quite simple to create...
 I didn't find many sources.
 * the best so far was https://www.instagram.com/projectswithalex/ 's one (https://github.com/projectswithalex/Reaction-Lights-Training-Module)
 * a wired project https://create.arduino.cc/projecthub/science-camp/light-trainer-55eb60 
-* an interesting projet which seems nipped in the bud (thans google translate for the expression, in France we say "killed in the egg" !)  https://www.youtube.com/watch?v=aLupsy850e0
+* an interesting projet which seems nipped in the bud (thanks google translate for the expression, in France we say "killed in the egg" !)  https://www.youtube.com/watch?v=aLupsy850e0
 
 ### concept
-I thing it would be cool to have a master pad for confirguration and on screen score display (that may be wired), and 3 to 6 wireless pads 
+I thing it would be cool to have a master pad for confirguration and on screen score display (that may be wired), and 3 to 6 wireless pads.
 
 ### electronics
 At first glance: 
@@ -35,9 +35,10 @@ _power_
 * l18560 batteries for the satellites (i love those !)
 
 ## functionnalities
-**TBC**
 
-
+* "get the light" : one of the satellites lights on, and stay until user interaction, then another one lights. gaming example : how many time did it takes to punch 10 lights ?
+* "music beats" : the light change every detected music beat, the screen continiously display the average of the xx last beats
+* ... _to be continued_
 
 ## when ?
 well... I thin I'll start on T4 2022.
