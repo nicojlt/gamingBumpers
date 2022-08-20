@@ -21,16 +21,24 @@ I thing it would be cool to have a master pad for confirguration and on screen s
 
 ### electronics
 At first glance: 
+
 _main board_
-** ESP32 board 
+
+* ESP32 board 
+
 _captors_
+
 * infrared proximity captors
 * maybe piezzo mics for vibration detection
 * maybe a dedicated mic for the master, to get music beats
+
 _user interfaces_
+
 * RGB leds to be defined for the satellites
 * maybe a small screen or a RGB matrix for the master
+
 _power_ 
+
 * usb power suppy for the master
 * l18560 batteries for the satellites (i love those !)
 
