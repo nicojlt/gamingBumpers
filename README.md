@@ -46,9 +46,18 @@ _power_
 
 * "get the light" : one of the satellites lights on, and stay until user interaction, then another one lights. gaming example : how many time did it takes to punch 10 lights ?
 * "music beats" : the light change every detected music beat, the screen continiously display the average of the xx last beats
+* "memory game" : (as seen at futuroscope park) : reproduce sequence of 1, 2, 3, 4... lights combos
+* "battle" : two players, one color per player, the satellites randomly lights
 * ... _to be continued_
 
 ## when ?
 well... I thin I'll start on T4 2022.
 Then why start this project now ?
 to save ideas and needs !
+But I'll eventually start with a POC
+
+## Proof of concept
+
+an arduino version with 4 or 5 wired satellites, simple white leds and AZDelivery KY-002 vibration sensor
+
+
